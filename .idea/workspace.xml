@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d5324b0-9803-4a61-a39d-bb4e60034c5b" name="Changes" comment="huggingface管道工具">
+    <list default="true" id="8d5324b0-9803-4a61-a39d-bb4e60034c5b" name="Changes" comment="huggingface训练工具">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +72,8 @@
       <workItem from="1777213987133" duration="275000" />
       <workItem from="1777299974978" duration="1999000" />
       <workItem from="1777387449607" duration="305000" />
+      <workItem from="1777474125147" duration="187000" />
+      <workItem from="1777474554758" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="huggingface编码器">
       <option name="closed" value="true" />
@@ -105,16 +107,36 @@
       <option name="project" value="LOCAL" />
       <updated>1777387492077</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="huggingface训练工具">
+      <option name="closed" value="true" />
+      <created>1777474189504</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777474189504</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="huggingface编码器" />
     <MESSAGE value="huggingface数据集工具 评价指标" />
     <MESSAGE value="huggingface管道工具" />
-    <option name="LAST_COMMIT_MESSAGE" value="huggingface管道工具" />
+    <MESSAGE value="huggingface训练工具" />
+    <option name="LAST_COMMIT_MESSAGE" value="huggingface训练工具" />
   </component>
 </project>
